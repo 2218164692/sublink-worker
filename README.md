@@ -1,6 +1,6 @@
 <div align="center">
   <img src="public/favicon.png" alt="Sublink Worker" width="120" height="120"/>
-
+  
   <h1><b>Sublink Worker</b></h1>
   <h5><i>One Worker, All Subscriptions</i></h5>
 
@@ -25,7 +25,7 @@
   <p>
     <a href="https://app.sublink.works"><b>⚡ Live Demo</b></a> ·
     <a href="https://sublink.works/en/"><b>Documentation</b></a> 
-    <a href="https://sublink.works"><b>中文文档</b></a>·
+    <a href="https://sublink.works"><b>中文 文档</b></a>·
   </p>
   <p>
     <a href="https://sublink.works/guide/quick-start/">Quick Start</a> ·
